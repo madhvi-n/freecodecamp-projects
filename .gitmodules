@@ -1,3 +1,21 @@
 [submodule "relational-database/Bike-Rental-Shop"]
 	path = relational-database/Bike-Rental-Shop
 	url = https://github.com/madhvi-n/Bike-Rental-Shop
+[submodule "relational-database/World-Cup-Database"]
+	path = relational-database/World-Cup-Database
+	url = https://github.com/madhvi-n/World-Cup-Database
+[submodule "relational-database/Student-Database"]
+	path = relational-database/Student-Database
+	url = https://github.com/madhvi-n/Student-Database/
+[submodule "relational-database/Periodic-Table-Database"]
+	path = relational-database/Periodic-Table-Database
+	url = https://github.com/madhvi-n/Periodic-Table-Database
+[submodule "relational-database/Salon-Appointment-Scheduler"]
+	path = relational-database/Salon-Appointment-Scheduler
+	url = https://github.com/madhvi-n/Salon-Appointment-Scheduler
+[submodule "relational-database/Celestial-Bodies-Database"]
+	path = relational-database/Celestial-Bodies-Database
+	url = https://github.com/madhvi-n/Celestial-Bodies-Database
+[submodule "relational-database/Number-Guessing-Game"]
+	path = relational-database/Number-Guessing-Game
+	url = https://github.com/madhvi-n/Number-Guessing-Game
