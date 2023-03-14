@@ -1,0 +1,3 @@
+[submodule "relational-database/Bike-Rental-Shop"]
+	path = relational-database/Bike-Rental-Shop
+	url = https://github.com/madhvi-n/Bike-Rental-Shop
